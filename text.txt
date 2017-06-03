@@ -1,1 +1,1 @@
-text
+text ot Git bash1
